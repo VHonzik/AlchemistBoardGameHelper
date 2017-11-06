@@ -1,5 +1,6 @@
 # AlchemistBoardGameHelper
 A python console application for bookkeeping of the [Alchemist board game](https://czechgames.com/en/alchemists/).
+Tested on/requires python 3.6.
 
 ## Features
   - Fast text input to record results of making potions
